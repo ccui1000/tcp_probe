@@ -1,0 +1,8 @@
+# tcp_probe
+linux/tcp_probe
+
+## tcp_probe.c (TCP probe module) had been removed from the v4.16 Linux kernel. 
+## It was removed by commit 6987990c3e16b01f9a4805cb1d1292381e9d6bff.
+## (link: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=6987990c3e16b01f9a4805cb1d1292381e9d6bff).
+## Alternatively, ftrace/perf can be used to trace events for TCP cwnd, by commit c3fde1bd28f7c720d7bc587e85e54706df4f8163.
+## (link: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=c3fde1bd28f7c720d7bc587e85e54706df4f8163)
